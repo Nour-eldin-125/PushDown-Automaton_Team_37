@@ -1,0 +1,20 @@
+Q F
+0 1 a b
+Z 0 1 a b
+Q
+Z
+F
+Q 0 Z Q 0Z
+Q 1 Z Q 1Z
+Q 0 1 Q e
+Q 1 0 Q e
+Q 0 0 Q 00
+Q 1 1 Q 11
+Q e Z F Z
+Q a Z Q aZ
+Q b Z Q bZ
+Q a 1 Q e
+Q b a Q e
+Q a a Q aa
+Q b b Q bb
+Q e Z F Z
